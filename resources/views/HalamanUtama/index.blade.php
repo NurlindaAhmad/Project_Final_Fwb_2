@@ -44,19 +44,9 @@
   @include('layouts.header')
   
   @yield('content')
-   
-  
-    
 
-
-
-    
-
-    
     
   @include('layouts.footer')
-
-    
 
 
   <script src="assets/js/jquery-3.3.1.min.js"></script>
